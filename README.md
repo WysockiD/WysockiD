@@ -1,5 +1,5 @@
 <h1 align="center">✨ WYSOCKI.EXE ✨</h1>
-<h3 align="center">'There is nothing more impactful to our collective future than what we code now'</h3>
+<h3 align="center">'There is nothing more impactful to our collective future than what we code today'</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wysockid&label=Profile%20views&color=0e75b6&style=sharp" alt="wysockid" /> </p>
 
@@ -26,5 +26,5 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wysockid&show_icons=true&locale=en&layout=compact" alt="wysockid" /></p>
 
-<p><img size='21%' align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wysockid&" alt="wysockid" /></p>
+<p><img width="410" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wysockid&" alt="wysockid" /></p>
 

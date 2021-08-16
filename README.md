@@ -1,9 +1,9 @@
 <h1 align="center">✨ WYSOCKI.EXE ✨</h1>
 <h3 align="center">'There is nothing more impactful to our collective future than what we code today'</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wysockid&label=Profile%20views&color=0e75b6&style=sharp" alt="wysockid" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=wysockid&label=Profile%20views&color=0e75b6&style=darkhub" alt="wysockid" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wysockid" alt="wysockid" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wysockid&theme=darkhub"  alt="wysockid" /></a> </p>
 
 ---
 

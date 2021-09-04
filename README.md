@@ -7,7 +7,7 @@
   
 ---    
  
-- 🙇‍  I’m currently working on **Blockchain Development, Django and AI** projects
+- 🙇‍  I’m currently working on **Blockchain Development, Django and AI** projects 
 - 🗨️ I’m looking to collaborate with other creative developers
 - 🔥 Passionate about finding ways that merge the natural world with the digital
 - 📫  Inquiries at **wysocki.dy@gmail.com**

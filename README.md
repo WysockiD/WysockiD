@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wysockid&theme=darkhub"  alt="wysockid" /></a> </p>    
     
 ---      
-           
+              
 - 🙇‍  I’m currently working on **Blockchain Development, Django and AI** projects 
 - 🗨️ I’m looking to collaborate with other creative developers
 - 🔥 Passionate about finding ways that merge the natural world with the digital

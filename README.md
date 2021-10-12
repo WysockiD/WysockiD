@@ -9,7 +9,7 @@
                 
 - 🙇‍  I’m currently working on **Blockchain Development, Django and AI** projects 
 - 🗨️ I’m looking to collaborate with other creative, outside the box thinking developers
-- 🔥 Passionate about web 3.0 and also finding ways that merge the natural world with the digital
+- 🔥 Passionate about web 3.0 and finding ways that merge the natural world with the digital
 - 📫  Inquiries at **wysocki.dy@gmail.com**
 
 ---

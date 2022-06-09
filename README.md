@@ -13,6 +13,7 @@
 - 🔥 Passionate about web 3.0 and finding ways that merge the natural world with the digital
 - 📫 Contact me at **wysocki.dy@gmail.com**
 
+
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">  

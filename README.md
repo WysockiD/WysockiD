@@ -8,7 +8,6 @@
             
 ---                    
 
-
  
 - 👨‍💻 Blockchain Software Engineer at SoftServe 
 - 🧠 I’m currently working on **Blockchain Development, Django and AI** projects 

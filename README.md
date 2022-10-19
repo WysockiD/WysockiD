@@ -5,12 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wysockid&theme=darkhub&title=MultiLanguage,Stars,Followers,Commits,Repositories,Pulls"  alt="wysockid" /></a> </p>        
             
-            
-            
-            
-            
-            
-            
+
             
 ---                    
 
@@ -18,7 +13,7 @@
 
  
 - 👨‍💻 Blockchain Software Engineer at SoftServe 
-- 🧠 I’m currently working on **Blockchain Development, Typescript and AI** projects 
+- 🧠 I’m currently working on **Blockchain Development, Typescript and Zero Knowledge** projects 
 - 🗨️ I’m looking to collaborate with other creative, outside the box thinking developers
 - 🔥 Passionate about web 3.0 and finding ways that merge the natural world with the digital
 - 👣 A man on a mission!

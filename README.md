@@ -10,7 +10,6 @@
 ---                    
 
 
-
  
 - 👨‍💻 Blockchain Software Engineer at SoftServe 
 - 🧠 I’m currently working on **Blockchain Development, DID and Zero Knowledge** projects 

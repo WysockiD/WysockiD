@@ -14,7 +14,7 @@
 
 
  
-- 👨‍💻 Blockchain Software Engineer at SoftServe 
+- 👨‍💻 Co Founder, CTO at [0xKYC](https://github.com/0xKYC)
 - 🧠 I’m currently working on **Blockchain Development, DID and Zero Knowledge** projects 
 - 🗨️ I’m looking to collaborate with other creative, outside the box thinking developers
 - 🔥 Passionate about web 3.0 and finding ways that merge the natural world with the digital

@@ -1,5 +1,5 @@
 <h1 align="center">✨ WYSOCKI.EXE ✨</h1>
-<h3 align="center">'Building Next Gen ZK Identity'</h3>
+<h3 align="center">'More action.'</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wysockid&label=Profile%20views&color=0e75b6&style=darkhub" alt="wysockid" /> </p>
 

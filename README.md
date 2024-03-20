@@ -15,7 +15,7 @@
 
  
 - 👨‍💻 Co Founder, CTO at [0xKYC](https://github.com/0xKYC)
-- 🧠 I’m currently working on **Blockchain Development, Digital Identity, Algorithmic Trading, HFT and Quant Analysis** projects 
+- 🧠 I’m currently working on **Algorithmic Trading, HFT, AI Trading, Blockchain Development and Digital Identity projects**
 - 🗨️ I’m looking to collaborate with other creative, outside the box thinking developers
 - 🔥 Passionate about the markets and finding ways to merge the natural world with the digital
 - 👣 A man on a mission!
